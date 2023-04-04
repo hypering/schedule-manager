@@ -1,4 +1,4 @@
-package com.schedule.manager.schedulemanager.schedule
+package com.schedule.manager.schedulemanager.schedule.domain
 
 class Schedule {
     // id
